@@ -16,7 +16,7 @@ $\($ opening bracket
 
 $\)$ closing bracket 
 
-$\^$ exponentiation
+$\ ^$ exponentiation
 
 For example supported such operstion as:
 
