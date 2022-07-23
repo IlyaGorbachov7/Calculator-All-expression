@@ -4,13 +4,19 @@ This calculator worked with all math-expression. This project was created while 
 
 Purpose this project is create calculator supported such math operation and expression as:
 
-/+ pluss
-/- minus
-/* multiple 
-// division 
-/( opening bracket 
-/) closing bracket 
-/^ exponentiation
+$+ pluss
+
+- minus
+
+* multiple 
+
+/ division
+
+( opening bracket 
+
+) closing bracket 
+
+^ exponentiation
 
 For example supported such operstion as:
 
