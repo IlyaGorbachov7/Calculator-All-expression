@@ -4,24 +4,24 @@ This calculator worked with all math-expression. This project was created while 
 
 Purpose this project is create calculator supported such math operation and expression as:
 
-$+ pluss
+$\+$ pluss
 
-- minus
+$\-$ minus
 
-* multiple 
+$\*$ multiple 
 
-/ division
+$\/$ division
 
-( opening bracket 
+$\($ opening bracket 
 
-) closing bracket 
+$\)$ closing bracket 
 
-^ exponentiation
+$\^$ exponentiation
 
 For example supported such operstion as:
 
-1. -5+(3^2+3.23^(2/3))
+1. $\-5+(3^2+3.23^(2/3))$
 
-2. (912.13)^(6+(-3)^(-2))
+2. $\(912.13)^(6+(-3)^(-2))$
 
-3. (-3-3-21)^(-1/2) and other difficult math-expression
+3. $\(-3-3-21)^(-1/2)$ and other difficult math-expression
